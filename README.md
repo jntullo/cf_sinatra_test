@@ -1,2 +1,4 @@
-# cf_sinatra_test
-To test things out with
+sinatra web app
+==================
+
+A service free app for CF buildpack testing
